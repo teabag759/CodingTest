@@ -32,7 +32,7 @@ if (M < 45) {
 }
 ```
 
-## 📥 Java 효율적인 입력 처리 (BufferedReader)
+### 2. 📥 Java 효율적인 입력 처리 (BufferedReader)
 
 Java의 `Scanner`는 내부 버퍼가 작고 속도가 느려 코딩 테스트 시 **시간 초과**의 원인이 될 수 있습니다. 따라서 상대적으로 속도가 빠른 `BufferedReader` 사용을 생활화합시다!
 
